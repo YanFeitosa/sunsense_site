@@ -42,7 +42,7 @@ const Hero = () => {
                 className="bg-gradient-sun hover:shadow-sun transition-all duration-300 text-lg px-8 font-bold group"
                 onClick={() => document.getElementById('campanha')?.scrollIntoView({ behavior: 'smooth' })}
               >
-                🚀 Apoiar Nova Iorque
+                🚀 Apoiar Sunsense
                 <ArrowRight className="ml-2 h-5 w-5 group-hover:translate-x-1 transition-transform" />
               </Button>
               <Button 
